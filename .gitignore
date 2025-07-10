@@ -75,6 +75,9 @@ Thumbs.db
 */quality_test_images/
 */quick_test_images/
 
+# Keep showcase images (these are important for documentation)
+!showcase/
+
 # Logs and temporary files
 *.log
 logs/
