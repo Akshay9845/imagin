@@ -78,6 +78,11 @@ Thumbs.db
 # Keep showcase images (these are important for documentation)
 !showcase/
 
+# Keep static demo images (these are important for documentation)
+!ai-image-app/backend/static/
+!ai-image-app/backend/lora_test_image.png
+!ai-image-app/backend/test_image_for_video.png
+
 # Logs and temporary files
 *.log
 logs/
