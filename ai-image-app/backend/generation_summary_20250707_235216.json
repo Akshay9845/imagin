@@ -1,0 +1,32 @@
+{
+  "timestamp": "20250707_235216",
+  "total_tests": 5,
+  "successful": 5,
+  "images": [
+    {
+      "prompt": "A beautiful sunset over mountains, digital art",
+      "path": "static/A_beautiful_sunset_over_mounta.png",
+      "type": "fast"
+    },
+    {
+      "prompt": "A cute robot playing with a cat, cartoon style",
+      "path": "static/A_cute_robot_playing_with_a_ca.png",
+      "type": "fast"
+    },
+    {
+      "prompt": "A futuristic city skyline at night, neon lights",
+      "path": "static/A_futuristic_city_skyline_at_n.png",
+      "type": "fast"
+    },
+    {
+      "prompt": "A magical forest with glowing mushrooms, fantasy art",
+      "path": "static/A_magical_forest_with_glowing_.png",
+      "type": "fast"
+    },
+    {
+      "prompt": "A portrait of a wise old wizard, detailed artwork",
+      "path": "static/A_portrait_of_a_wise_old_wizar.png",
+      "type": "fast"
+    }
+  ]
+}

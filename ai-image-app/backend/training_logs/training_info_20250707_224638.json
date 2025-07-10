@@ -1,0 +1,7 @@
+{
+  "step": 50,
+  "loss": 0.0,
+  "timestamp": "20250707_224638",
+  "dataset": "laion/laion2B-en",
+  "model": "RealVisXL_V3.0"
+}

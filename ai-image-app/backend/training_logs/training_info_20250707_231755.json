@@ -1,0 +1,17 @@
+{
+  "step": 50,
+  "loss": 0.0,
+  "timestamp": "20250707_231755",
+  "dataset": "laion/laion2B-en",
+  "model": "stable-diffusion-v1-5",
+  "lora_success": true,
+  "device": "cpu",
+  "target_modules": [
+    "to_q",
+    "to_k",
+    "to_v",
+    "to_out.0",
+    "ff.net.0.proj",
+    "ff.net.2"
+  ]
+}

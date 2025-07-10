@@ -1,0 +1,16 @@
+{
+  "step": 50,
+  "loss": 0.0,
+  "timestamp": "20250707_231755",
+  "model_path": "lora_weights/lora_step_50_20250707_231755",
+  "base_model": "runwayml/stable-diffusion-v1-5",
+  "target_modules": [
+    "to_q",
+    "to_k",
+    "to_v",
+    "to_out.0",
+    "ff.net.0.proj",
+    "ff.net.2"
+  ],
+  "task_type": "FEATURE_EXTRACTION"
+}

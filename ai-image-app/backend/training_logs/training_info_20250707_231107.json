@@ -1,0 +1,9 @@
+{
+  "step": 50,
+  "loss": 0.0,
+  "timestamp": "20250707_231107",
+  "dataset": "laion/laion2B-en",
+  "model": "stable-diffusion-v1-5",
+  "lora_success": false,
+  "device": "cpu"
+}
